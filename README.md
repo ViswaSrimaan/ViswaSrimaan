@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ViswaSrimaan
-- 👀 I’m interested in devops cloud engineer
+- 👀 I’m interested in devops and cloud 
 - 🌱 I’m currently learning openshift & automation tools.
 - 💞️ I’m looking to collaborate on cloud technologies
 - 📫 How to reach me ...
