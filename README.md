@@ -2,7 +2,7 @@
 - 👀 I’m interested in devops and cloud 
 - 🌱 I’m currently learning openshift & automation tools.
 - 💞️ I’m looking to collaborate on cloud technologies
-- 📫 How to reach me ...
+- 📫 How to reach me www.linkedin.com/in/srimaan-amam
 
 <!---
 ViswaSrimaan/ViswaSrimaan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
