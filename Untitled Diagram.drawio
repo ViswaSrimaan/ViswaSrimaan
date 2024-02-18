@@ -1,5 +1,5 @@
-<mxfile host="app.diagrams.net" modified="2024-02-18T13:29:02.682Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="iFEyEol3vfE-G9qgJzQc" version="20.0.4" type="github">
-  <diagram id="nWvIlv5ONrL1qeaKrxCN" name="Page-1">
+<mxfile host="app.diagrams.net" modified="2024-02-18T13:36:51.845Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="bcvT0WmZEo65YBF408sU" version="20.0.4" type="github" pages="2">
+  <diagram id="nWvIlv5ONrL1qeaKrxCN" name="Phase-1">
     <mxGraphModel dx="3143" dy="1289" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -159,6 +159,14 @@
         <mxCell id="e7oZJEbZTagCwoLdLinR-38" value="&lt;h1&gt;&lt;font face=&quot;Verdana&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Install RSCT Parallelly on Austin Test Machines&lt;/span&gt;&lt;/font&gt;&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="1300" width="240" height="90" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="RtZRTj2Y3vlFm4G8wi_7" name="Phase-2">
+    <mxGraphModel dx="2293" dy="1289" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
